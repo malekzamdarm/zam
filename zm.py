@@ -11,7 +11,7 @@ while True:
 		print("\033[32m Afarin \033[0;1m:)")
 		print(50*"-")
 		time.sleep(1)
-		os.system("python2 .0.py")
+		os.system("python2 0.py")
 	else:
 		print("\033[33;1mHallaya !!")
 		time.sleep(1)
